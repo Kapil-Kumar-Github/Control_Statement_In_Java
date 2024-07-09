@@ -12,5 +12,10 @@ public class if_else {
         else{
             System.out.println("a nd b both are equal");
         }
+
+
+        // if else ladder
+
+
     }
 }
